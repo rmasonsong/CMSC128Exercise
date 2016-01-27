@@ -7,10 +7,11 @@ Developers
 * Aragones
 * de Robles
 * Mendoza
+* Montero
 * Oraa
 * Pitargue
 * Paderes
-* Pitargue
+* Payawal
 * Robles
 * Rupa
 * Santos
@@ -18,5 +19,3 @@ Developers
 * Sevilla
 * Sosmena
 * Villamor
-
-
