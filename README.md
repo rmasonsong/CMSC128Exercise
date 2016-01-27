@@ -4,6 +4,7 @@ Exercise Material for CMSC 128 AB-3L and AB-7L for AY 2015-2016
 
 Developers
 * Alcantara
+* Aquino
 * Aragones
 * de Robles
 * Oraa
@@ -22,5 +23,4 @@ Developers
 * Sosmena
 * Santos, V.
 * Villamor
-* Sevilla
-* Villamor
+
