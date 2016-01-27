@@ -7,20 +7,16 @@ Developers
 * Aquino
 * Aragones
 * de Robles
+* Mendoza
+* Montero
 * Oraa
-* Paderes
-* Pitargue
-* Robles
-* Rupa
-* Santos, Narom
 * Paderes
 * Payawal
 * Pitargue
 * Robles
 * Rupa
 * Santos, N.
+* Santos, V.
 * Sevilla
 * Sosmena
-* Santos, V.
 * Villamor
-
