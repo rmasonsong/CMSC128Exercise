@@ -8,10 +8,12 @@ Developers
 * de Robles
 * Oraa
 * Pitargue
+* Pitargue
 * Paderes
 * Pitargue
 * Robles
 * Rupa
 * Santos, V.
+* Villamor
 * Sevilla
 * Villamor
