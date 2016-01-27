@@ -6,6 +6,7 @@ Developers
 * Alcantara
 * Aquino
 * Aragones
+* Clemente
 * de Robles
 * Larin
 * Mendoza
