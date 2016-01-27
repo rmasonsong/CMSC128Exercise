@@ -6,19 +6,19 @@ Developers
 * Alcantara
 * Aragones
 * de Robles
+* Mendoza
+* Montero
 * Oraa
 * Paderes
 * Pitargue
 * Robles
 * Paderes
 * Payawal
-* Pitargue
 * Robles
 * Rupa
+* Santos
 * Santos, N.
+* Santos, V.
 * Sevilla
 * Sosmena
-* Santos, V.
-* Villamor
-* Sevilla
 * Villamor
