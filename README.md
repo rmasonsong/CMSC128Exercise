@@ -10,8 +10,6 @@ Developers
 * Paderes
 * Pitargue
 * Robles
-* Rupa
-* Santos, Narom
 * Paderes
 * Payawal
 * Pitargue
