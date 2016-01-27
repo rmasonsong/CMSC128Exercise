@@ -13,6 +13,9 @@ Developers
 * Pitargue
 * Robles
 * Rupa
+* Santos
+* Sevilla
+* Sosmena
 * Santos, V.
 * Villamor
 * Sevilla
