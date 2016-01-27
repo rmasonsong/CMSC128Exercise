@@ -14,6 +14,12 @@ Developers
 * Robles
 * Rupa
 * Santos, Narom
+* Paderes
+* Payawal
+* Pitargue
+* Robles
+* Rupa
+* Santos, N.
 * Sevilla
 * Sosmena
 * Santos, V.
