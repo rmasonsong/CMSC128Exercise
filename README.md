@@ -10,10 +10,16 @@ Developers
 * Montero
 * Oraa
 * Paderes
+* Pitargue
+* Robles
+* Rupa
+* Santos, Narom
+* Paderes
 * Payawal
 * Robles
 * Rupa
 * Santos
+* Santos, N.
 * Santos, V.
 * Sevilla
 * Sosmena
