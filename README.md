@@ -7,3 +7,4 @@ Developers
 ======
 * de Robles
 * Rupa
+* Santos
