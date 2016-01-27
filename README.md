@@ -6,19 +6,11 @@ Developers
 * Alcantara
 * Aragones
 * de Robles
-<<<<<<< HEAD
-* Pitargue
-=======
->>>>>>> 97e13b28b396ed4dd1e1e24d35a8997d229cd111
 * Paderes
+* Payawal
 * Pitargue
 * Robles
 * Rupa
 * Santos, V.
-<<<<<<< HEAD
-* Villamor
-
-=======
 * Sevilla
 * Villamor
->>>>>>> 97e13b28b396ed4dd1e1e24d35a8997d229cd111
