@@ -20,4 +20,5 @@ Developers
 * Santos, V.
 * Sevilla
 * Sosmena
+* Trinidad
 * Villamor
