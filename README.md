@@ -13,7 +13,7 @@ Developers
 * Pitargue
 * Robles
 * Rupa
-* Santos
+* Santos, Narom
 * Sevilla
 * Sosmena
 * Santos, V.
