@@ -7,8 +7,6 @@ Developers
 * Aragones
 * de Robles
 * Oraa
-* Pitargue
-* Pitargue
 * Paderes
 * Pitargue
 * Robles
