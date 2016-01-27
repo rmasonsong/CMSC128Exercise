@@ -7,6 +7,7 @@ Developers
 * Aquino
 * Aragones
 * de Robles
+* Larin
 * Mendoza
 * Montero
 * Oraa
