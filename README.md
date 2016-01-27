@@ -7,7 +7,6 @@ Developers
 * Aragones
 * de Robles
 * Oraa
-* Pitargue
 * Paderes
 * Payawal
 * Pitargue
