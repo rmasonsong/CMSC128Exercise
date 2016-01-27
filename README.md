@@ -7,3 +7,5 @@ Developers
 ======
 * Aragones
 * de Robles
+* Paderes
+* Rupa
