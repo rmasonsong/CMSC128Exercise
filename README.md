@@ -16,7 +16,6 @@ Developers
 * Payawal
 * Robles
 * Rupa
-* Santos
 * Santos, N.
 * Santos, V.
 * Sevilla
