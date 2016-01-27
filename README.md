@@ -9,7 +9,6 @@ Developers
 * Mendoza
 * Montero
 * Oraa
-* Pitargue
 * Paderes
 * Payawal
 * Robles
