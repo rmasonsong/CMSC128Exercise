@@ -3,14 +3,13 @@
 Exercise Material for CMSC 128 AB-3L and AB-7L for AY 2015-2016
 
 Developers
-* Rupa
-* Santos, Narom
+* Alcantara
 * Aragones
 * de Robles
 * Oraa
 * Pitargue
 * Paderes
-* de Robles
+* Pitargue
 * Robles
 * Rupa
 * Santos, V.
