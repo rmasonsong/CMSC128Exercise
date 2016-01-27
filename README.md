@@ -7,6 +7,8 @@ Developers
 * Aragones
 * de Robles
 * Oraa
+* Villamor
+* Santos, V.
 * Pitargue
 * Paderes
 * Robles
