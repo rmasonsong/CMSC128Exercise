@@ -25,13 +25,20 @@ Exercise Material for CMSC 128 AB-3L and AB-7L for AY 2015-2016
  * Tomagos
  * Trinidad
  * Villamor
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 4be31fa81c54b28df0fbc47c92cc145be451b19c
 * AB-7L
  * Abad
  * Adona
  * Cruz, T.
  * Deoferio
  * Esguerra
+ * Lara	
+ * Labuanan
+ * Lat
  * Fernando
  * Lanorio
  * Lara	
@@ -40,4 +47,3 @@ Exercise Material for CMSC 128 AB-3L and AB-7L for AY 2015-2016
  * Rivera
  * Ual
  * Ware
-
