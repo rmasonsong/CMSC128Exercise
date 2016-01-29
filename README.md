@@ -27,9 +27,11 @@ Exercise Material for CMSC 128 AB-3L and AB-7L for AY 2015-2016
  * Villamor
 
 * AB-7L
+ * Abad
  * Adona
  * Deoferio
  * Esguerra
  * Orias
+ * Ual
  * Ware
  
